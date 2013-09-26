@@ -1,0 +1,80 @@
+
+[17-Sep-2013 03:02:54] P.MAPPER debug info 
+ Validation of search.xml file succeeded
+[17-Sep-2013 03:04:45] P.MAPPER debug info 
+ Validation of search.xml file succeeded
+[17-Sep-2013 03:10:11] P.MAPPER debug info 
+ Validation of search.xml file succeeded
+[17-Sep-2013 03:13:19] P.MAPPER debug info 
+Searcharray in search.php->getSearchParameters() 
+ Array
+(
+    [NAME] => Madrid
+    [mode] => search
+)
+
+[17-Sep-2013 03:13:19] P.MAPPER debug info 
+Parameters for searchArray 
+file: query.php->q_execAttributeQuery 
+
+ Array
+(
+    [NAME] => Madrid
+    [mode] => search
+)
+
+[17-Sep-2013 03:13:19] P.MAPPER debug info 
+Parameters for searchParams 
+file: query.php->q_execAttributeQuery
+ Array
+(
+    [layerName] => cities10000eu
+    [layerType] => shape
+    [firstFld] => NAME
+    [qStr] => (  "[NAME]" ~* "Madrid" )
+)
+
+[17-Sep-2013 03:47:53] P.MAPPER debug info 
+XML->//definition
+ SimpleXMLElement Object
+(
+    [@attributes] => Array
+        (
+            [type] => suggest
+            [connectiontype] => ms
+            [minlength] => 1
+            [startleft] => 1
+            [sort] => asc
+        )
+
+    [mslayer] => SimpleXMLElement Object
+        (
+            [@attributes] => Array
+                (
+                    [encoding] => UTF-8
+                )
+
+        )
+
+)
+
+[17-Sep-2013 07:26:54] P.MAPPER debug info 
+ Validation of search.xml file succeeded
+[17-Sep-2013 19:26:38] P.MAPPER debug info 
+ Validation of search.xml file succeeded
+[17-Sep-2013 21:16:00] P.MAPPER debug info 
+ Validation of search.xml file succeeded
+[17-Sep-2013 21:29:19] P.MAPPER debug info 
+ Validation of search.xml file succeeded
+[17-Sep-2013 23:18:40] P.MAPPER debug info 
+ Validation of search.xml file succeeded
+[17-Sep-2013 23:56:39] P.MAPPER debug info 
+ Validation of search.xml file succeeded
+[18-Sep-2013 00:02:30] P.MAPPER debug info 
+ Validation of search.xml file succeeded
+[18-Sep-2013 00:10:11] P.MAPPER debug info 
+ Validation of search.xml file succeeded
+[18-Sep-2013 01:28:08] P.MAPPER debug info 
+ Validation of search.xml file succeeded
+[18-Sep-2013 22:11:28] P.MAPPER debug info 
+ Validation of search.xml file succeeded

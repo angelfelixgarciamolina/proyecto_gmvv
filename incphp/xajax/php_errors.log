@@ -1,0 +1,12 @@
+[17-Sep-2013 21:49:59 UTC] PHP Warning:  mapObj::draw(): [MapServer Error]: msBuildWMSLayerURL(): Layer must have an EPSG or AUTO projection code (in its PROJECTION object or wms_srs metadata)
+ in /var/www/proyecto_gmvv/incphp/map/map.php on line 336
+[17-Sep-2013 21:49:59 UTC] PHP Fatal error:  Call to a member function saveImage() on a non-object in /var/www/proyecto_gmvv/incphp/common.php on line 309
+[17-Sep-2013 21:50:20 UTC] PHP Warning:  mapObj::draw(): [MapServer Error]: msBuildWMSLayerURL(): Layer must have an EPSG or AUTO projection code (in its PROJECTION object or wms_srs metadata)
+ in /var/www/proyecto_gmvv/incphp/map/map.php on line 336
+[17-Sep-2013 21:50:20 UTC] PHP Fatal error:  Call to a member function saveImage() on a non-object in /var/www/proyecto_gmvv/incphp/common.php on line 309
+[17-Sep-2013 21:50:29 UTC] PHP Warning:  mapObj::draw(): [MapServer Error]: msBuildWMSLayerURL(): Layer must have an EPSG or AUTO projection code (in its PROJECTION object or wms_srs metadata)
+ in /var/www/proyecto_gmvv/incphp/map/map.php on line 336
+[17-Sep-2013 21:50:29 UTC] PHP Fatal error:  Call to a member function saveImage() on a non-object in /var/www/proyecto_gmvv/incphp/common.php on line 309
+[17-Sep-2013 21:51:49 UTC] PHP Warning:  mapObj::draw(): [MapServer Error]: msBuildWMSLayerURL(): Layer must have an EPSG or AUTO projection code (in its PROJECTION object or wms_srs metadata)
+ in /var/www/proyecto_gmvv/incphp/map/map.php on line 336
+[17-Sep-2013 21:51:49 UTC] PHP Fatal error:  Call to a member function saveImage() on a non-object in /var/www/proyecto_gmvv/incphp/common.php on line 309
