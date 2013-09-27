@@ -10,3 +10,10 @@
 [17-Sep-2013 21:51:49 UTC] PHP Warning:  mapObj::draw(): [MapServer Error]: msBuildWMSLayerURL(): Layer must have an EPSG or AUTO projection code (in its PROJECTION object or wms_srs metadata)
  in /var/www/proyecto_gmvv/incphp/map/map.php on line 336
 [17-Sep-2013 21:51:49 UTC] PHP Fatal error:  Call to a member function saveImage() on a non-object in /var/www/proyecto_gmvv/incphp/common.php on line 309
+[27-Sep-2013 01:40:10 UTC] PHP Warning:  mapObj::draw(): [MapServer Error]: msDrawMap(): Failed to draw layer named 'countries'.
+ in /var/www/proyecto_gmvv/incphp/map/map.php on line 336
+[27-Sep-2013 01:40:10 UTC] PHP Warning:  mapObj::draw(): [MapServer Error]: msShapefileOpen(): (/var/www/proyecto_gmvv/config/default/countries)
+ in /var/www/proyecto_gmvv/incphp/map/map.php on line 336
+[27-Sep-2013 01:40:10 UTC] PHP Warning:  mapObj::draw(): [MapServer Error]: msShapefileOpen(): (/var/www/proyecto_gmvv/config/default/../../pmapper_demodata/countries)
+ in /var/www/proyecto_gmvv/incphp/map/map.php on line 336
+[27-Sep-2013 01:40:10 UTC] PHP Fatal error:  Call to a member function saveImage() on a non-object in /var/www/proyecto_gmvv/incphp/common.php on line 309

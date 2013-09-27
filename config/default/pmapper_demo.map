@@ -23,7 +23,7 @@ UNITS meters
 #EXTENT -15 30 40 70
 #UNITS dd
 SIZE 600 500
-SHAPEPATH "../../../pmapper_demodata"
+SHAPEPATH "../../pmapper_demodata"
 SYMBOLSET "../common/symbols/symbols-pmapper.sym"   
 FONTSET "../common/fonts/msfontset.txt" 
 RESOLUTION 96
